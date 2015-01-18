@@ -1,0 +1,14 @@
+using System;
+using System.Text;
+using System.Collections;
+using System.Data;
+namespace Cons
+{
+    public class squareroot
+    {
+        public static void Main()
+        {
+            Console.WriteLine(Math.Sqrt(12345));
+        }
+    }
+}
